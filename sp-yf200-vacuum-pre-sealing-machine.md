@@ -5,7 +5,9 @@
 ![SP-YF200 외관](<.gitbook/assets/imagesimage3 (1).png>)
 
 {% hint style="info" %}
-본 매뉴얼은 SP-YF200 Vacuum Pre-sealing Machine의 설치·조작·유지보수 방법을 설명합니다. 장비를 사용하기 전에 **2. 안전 및 주의사항**을 반드시 읽어 주세요.
+본 매뉴얼은 SP-YF200 Vacuum Pre-sealing Machine의 설치·조작·유지보수 방법을 설명합니다.&#x20;
+
+장비를 사용하기 전에 **2. 안전 및 주의사항**을 반드시 읽어 주세요.
 {% endhint %}
 
 ## 1. 장치 정보
