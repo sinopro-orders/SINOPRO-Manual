@@ -204,16 +204,6 @@
 |    |    |
 |    |    |
 
-| 구분          | 내용                                                                                     |
-| ----------- | -------------------------------------------------------------------------------------- |
-| 회사          | SINOPRO CO., LTD.                                                                      |
-| 주소          | F625-626, F642-645, 43, Bogyongdong-ro, Yuseong-gu, Daejeon, Republic of Korea (34202) |
-| 대표 전화       | +82-42-721-7277                                                                        |
-| A/S Center  | 070-7537-0075                                                                          |
-| 이메일 (실험실장치) | [Tech-Support@sinopro.co.kr](mailto:Tech-Support@sinopro.co.kr)                        |
-| 이메일 (충방전기)  | [TS@sinopro.co.kr](mailto:TS@sinopro.co.kr)                                            |
-| 홈페이지        | [www.sinopro.co.kr](https://www.sinopro.co.kr)                                         |
-
 ### 6-2. 품질 보증 기간 및 조건
 
 | 구분  | 기간    |
@@ -237,5 +227,5 @@
 
 > **SINOPRO CO., LTD.** · _Solution For Battery RND & Manufacture_\
 > F625–626, F642–645, 43, Bogyongdong-ro, Yuseong-gu, Daejeon, Republic of Korea (34202)\
-> **Tel** +82-42-721-7277 · **A/S Center** 070-7537-0075\
-> **실험실장치** [Tech-Support@sinopro.co.kr](mailto:Tech-Support@sinopro.co.kr) · **충방전기** [TS@sinopro.co.kr](mailto:TS@sinopro.co.kr) · [www.sinopro.co.kr](https://www.sinopro.co.kr)
+> **Tel** +82-42-721-7277 · **A/S Center** 070-7537-0075· **Home page** [www.sinopro.co.kr](https://www.sinopro.co.kr) \ 
+> **실험실장치** [Tech-Support@sinopro.co.kr](mailto:Tech-Support@sinopro.co.kr) · **충방전기** [TS@sinopro.co.kr](mailto:TS@sinopro.co.kr) 
