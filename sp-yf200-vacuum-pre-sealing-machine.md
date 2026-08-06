@@ -141,7 +141,7 @@
 
 ![제어 패널](.gitbook/assets/imagesimage7.png)
 
-<table><thead><tr><th width="301">스위치</th><th>기능</th></tr></thead><tbody><tr><td>Up-heat open/ close (상부가열) </td><td>상부 실링 나이프의 가열 온/오프 전환</td></tr><tr><td>Down-heat open/ close (하부가열)</td><td>하부 실링 나이프의 가열 온/오프 전환</td></tr><tr><td>Stop (비상 정지)</td><td>모든 동작 정지</td></tr><tr><td>Open lid (커버 캐폐)</td><td>상부 커버 열림 및 닫힘 전환</td></tr><tr><td>Vacuum (진공)</td><td>진공 밸브 온/오프 전환 (실링 작업 시 열림 상태)</td></tr><tr><td>Inflator (가스 주입)</td><td>가스 주입 밸브 온/오프 전환 (실링 작업 시 닫힘 상태)</td></tr><tr><td>Sealing (실링)</td><td>상하 실링 나이프 온/오프 전환</td></tr><tr><td>Manual/ Auto (수동/자동)</td><td>수동 및 자동 모드 전환 (작업 시 자동 모드 사용)</td></tr></tbody></table>
+<table><thead><tr><th width="301">스위치</th><th>기능</th></tr></thead><tbody><tr><td>Up-heat open/ close (상부가열) </td><td>상부 실링 헤드 가열 온/오프 전환</td></tr><tr><td>Down-heat open/ close (하부가열)</td><td>하부 실링 헤드 가열 온/오프 전환</td></tr><tr><td>Stop (비상 정지)</td><td>모든 동작 정지</td></tr><tr><td>Open lid (커버 캐폐)</td><td>챔버 커버 열림/닫힘 전환</td></tr><tr><td>Vacuum (진공)</td><td>진공 밸브 온/오프 전환 (실링 작업 시 열림 상태)</td></tr><tr><td>Inflator (가스 주입)</td><td>가스 주입 밸브 온/오프 전환 (실링 작업 시 닫힘 상태)</td></tr><tr><td>Sealing (실링)</td><td>실링 실린더 하강/상승동작</td></tr><tr><td>Manual/ Auto (수동/자동)</td><td>수동 및 자동 모드 전환 (작업 시 자동 모드 사용)</td></tr></tbody></table>
 
 **파라미터 설정**
 
@@ -149,8 +149,8 @@
 
 | 항목          | 설명                                    |
 | ----------- | ------------------------------------- |
-| 상부/하부 온도 설정 | 상·하부 실링 나이프의 가열 온도 설정                 |
-| 실링 시간       | 상하 실링 나이프의 밀착 유지 시간 설정                |
+| 상부/하부 온도 설정 | 상·하부 실링 헤드의 가열 온도 설정                  |
+| 실링 시간       | 상하 실링 헤드의 밀착 유지 시간 설정                 |
 | 실링 지연 시간    | 진공도가 설정값(P1) 도달 후 실링까지의 지연 시간         |
 | 커버 개방 지연 시간 | 가스 주입 압력이 설정값(P2) 도달 후 커버 개방까지의 지연 시간 |
 
