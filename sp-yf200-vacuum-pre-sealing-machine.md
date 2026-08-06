@@ -2,10 +2,10 @@
 
 > **SINOPRO** · 문서 번호 SINOPRO-M-SP-YF200 · Rev. 1.0 · 2026. 08.
 
-![SP-YF200 외관](<.gitbook/assets/imagesimage3 (1).png>)
+![SP-YF200 외관](.gitbook/assets/imagesimage3.png)
 
 {% hint style="info" %}
-본 매뉴얼은 SP-YF200 Vacuum Pre-sealing Machine의 설치·조작·유지보수 방법을 설명합니다.&#x20;
+본 매뉴얼은 SP-YF200 Vacuum Pre-sealing Machine의 설치·조작·유지보수 방법을 설명합니다.
 
 장비를 사용하기 전에 **2. 안전 및 주의사항**을 반드시 읽어 주세요.
 {% endhint %}
@@ -24,7 +24,7 @@
 
 **제어 패널 구성**
 
-![제어 패널](<.gitbook/assets/imagesimage7 (1).png>)
+![제어 패널](.gitbook/assets/imagesimage7.png)
 
 <table><thead><tr><th width="316">스위치</th><th>기능</th></tr></thead><tbody><tr><td>상부 가열</td><td>상부 실링 나이프의 가열 온/오프 전환</td></tr><tr><td>하부 가열</td><td>하부 실링 나이프의 가열 온/오프 전환</td></tr><tr><td>비상 정지</td><td>모든 동작 정지</td></tr><tr><td>커버 개폐</td><td>상부 커버 열림 및 닫힘 전환</td></tr><tr><td>진공</td><td>진공 밸브 온/오프 전환 (실링 작업 시 열림 상태)</td></tr><tr><td>가스 주입</td><td>가스 주입 밸브 온/오프 전환 (실링 작업 시 닫힘 상태)</td></tr><tr><td>실링</td><td>상하 실링 나이프 온/오프 전환</td></tr><tr><td>수동/자동</td><td>수동 및 자동 모드 전환 (작업 시 자동 모드 사용)</td></tr></tbody></table>
 
@@ -106,7 +106,7 @@
 
 배관과 전선은 표시된 **식별 코드**에 따라 정확하게 연결합니다.
 
-![배관 및 전선 연결](<.gitbook/assets/imagesimage4 (1).png>)
+![배관 및 전선 연결](.gitbook/assets/imagesimage4.png)
 
 | 유틸리티  | 사양            | 연결 방법                  |
 | ----- | ------------- | ---------------------- |
@@ -144,7 +144,7 @@
 
 **파라미터 설정**
 
-![파라미터 설정](<.gitbook/assets/imagesimage8 (1).png>)
+![파라미터 설정](.gitbook/assets/imagesimage8.png)
 
 | 항목          | 설명                                    |
 | ----------- | ------------------------------------- |
@@ -155,7 +155,7 @@
 
 {% tabs %}
 {% tab title="진공 설정값 (P1)" %}
-![진공 게이지](<.gitbook/assets/imagesimage6 (1).png>)
+![진공 게이지](.gitbook/assets/imagesimage6.png)
 
 * 게이지 상단은 **진공 측정값**, 하단은 **진공 설정값**입니다.
 * 《파란색 버튼》을 눌러 **P1** 항목이 표시되면 해당 값이 진공 설정값입니다.
@@ -224,7 +224,7 @@
 {% endstep %}
 {% endstepper %}
 
-![작업 화면](<.gitbook/assets/imagesimage5 (1).jpeg>)
+![작업 화면](.gitbook/assets/imagesimage5.jpeg)
 
 {% hint style="warning" %}
 운전 중에는 챔버 내부와 동작부에 손을 넣지 마세요. 이상 발생 시 즉시 **비상 정지** 버튼을 누르세요.
@@ -306,7 +306,7 @@
 
 ### 5-3. 트러블슈팅
 
-<table><thead><tr><th width="76" align="center">번호</th><th width="156">이상 현상</th><th>원인</th><th>조치 방법</th></tr></thead><tbody><tr><td align="center">1</td><td>진공이 안 되거나 설정값에 도달하지 않음</td><td><p>① 진공펌프 미작동 </p><p>② 직통밸브 미개방 </p><p>③ 진공밸브 미개방 </p><p>④ 보충밸브 미폐쇄 </p><p>⑤ 실링 고무링 미장착·손상</p></td><td><p>① 진공펌프 작동 </p><p>② 직통밸브 개방 </p><p>③ 수동 모드에서 진공밸브 개방 </p><p>④ 수동 모드에서 보충밸브 닫기 </p><p>⑤ O링 재장착 또는 교체</p></td></tr><tr><td align="center">2</td><td>커버가 닫히지 않음</td><td><p>① 히터 온도 미도달 </p><p>② 공압 압력 부족 </p><p>③ 실린더 미작동</p></td><td><p>① 온도 도달까지 대기 </p><p>② 공압 라인·압력 확인 (0.6MPa) </p><p>③ 릴레이·솔레노이드밸브 작동 확인</p></td></tr><tr><td align="center">3</td><td>커버가 열리지 않음</td><td><p>① P2 값이 너무 큼 </p><p>② 공압 미작동·압력 부족 </p><p>③ 실린더 미작동</p></td><td><p>① P2 값을 -2.0 미만으로 설정 </p><p>② 공압 라인·압력 확인 (0.6MPa) </p><p>③ 릴레이·솔레노이드밸브 작동 확인</p></td></tr><tr><td align="center">4</td><td>실링 불량</td><td><p>① 히터 온도 낮음 </p><p>② 실링 시간 짧음 </p><p>③ 상하 히터 날 비평행</p></td><td><p>① 온도 상향 (예: 180℃) </p><p>② 시간 연장 (예: 3초 이상) </p><p>③ 조정 나사로 평행도 조정</p></td></tr></tbody></table>
+<table><thead><tr><th width="76" align="center">번호</th><th width="156">이상 현상</th><th>원인</th><th>조치 방법</th></tr></thead><tbody><tr><td align="center">1</td><td>진공이 안 되거나 설정값에 도달하지 않음</td><td><p>① 진공펌프 미작동</p><p>② 직통밸브 미개방</p><p>③ 진공밸브 미개방</p><p>④ 보충밸브 미폐쇄</p><p>⑤ 실링 고무링 미장착·손상</p></td><td><p>① 진공펌프 작동</p><p>② 직통밸브 개방</p><p>③ 수동 모드에서 진공밸브 개방</p><p>④ 수동 모드에서 보충밸브 닫기</p><p>⑤ O링 재장착 또는 교체</p></td></tr><tr><td align="center">2</td><td>커버가 닫히지 않음</td><td><p>① 히터 온도 미도달</p><p>② 공압 압력 부족</p><p>③ 실린더 미작동</p></td><td><p>① 온도 도달까지 대기</p><p>② 공압 라인·압력 확인 (0.6MPa)</p><p>③ 릴레이·솔레노이드밸브 작동 확인</p></td></tr><tr><td align="center">3</td><td>커버가 열리지 않음</td><td><p>① P2 값이 너무 큼</p><p>② 공압 미작동·압력 부족</p><p>③ 실린더 미작동</p></td><td><p>① P2 값을 -2.0 미만으로 설정</p><p>② 공압 라인·압력 확인 (0.6MPa)</p><p>③ 릴레이·솔레노이드밸브 작동 확인</p></td></tr><tr><td align="center">4</td><td>실링 불량</td><td><p>① 히터 온도 낮음</p><p>② 실링 시간 짧음</p><p>③ 상하 히터 날 비평행</p></td><td><p>① 온도 상향 (예: 180℃)</p><p>② 시간 연장 (예: 3초 이상)</p><p>③ 조정 나사로 평행도 조정</p></td></tr></tbody></table>
 
 {% hint style="info" %}
 문제가 해결되지 않으면 **6. 기술지원 (A/S)** 으로 문의해 주세요.
