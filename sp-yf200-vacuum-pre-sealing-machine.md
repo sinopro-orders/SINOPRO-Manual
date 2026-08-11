@@ -145,7 +145,7 @@ SP-YF200 Vacuum Pre-sealing Machine은 전해액 주입 및 정치 공정이 완
 
 ![제어 패널](.gitbook/assets/imagesimage7.png)
 
-<table><thead><tr><th width="301">스위치</th><th>기능</th></tr></thead><tbody><tr><td>Up-heat open/ close (상부가열) </td><td>상부 실링 헤드 가열 온/오프 전환</td></tr><tr><td>Down-heat open/ close (하부가열)</td><td>하부 실링 헤드 가열 온/오프 전환</td></tr><tr><td>Stop (비상 정지)</td><td>모든 동작 정지</td></tr><tr><td>Open lid (커버 캐폐)</td><td>챔버 커버 열림/닫힘 전환</td></tr><tr><td>Vacuum (진공)</td><td>진공 밸브 온/오프 전환 (실링 작업 시 열림 상태)</td></tr><tr><td>Inflator (가스 주입)</td><td>가스 주입 밸브 온/오프 전환 (실링 작업 시 닫힘 상태)</td></tr><tr><td>Sealing (실링)</td><td>실링 에어실린더 하강/상승 동작</td></tr><tr><td>Manual/ Auto (수동/자동)</td><td>수동 및 자동 모드 전환 (작업 시 자동 모드 사용)</td></tr></tbody></table>
+<table><thead><tr><th width="301">스위치</th><th>기능</th></tr></thead><tbody><tr><td>Up-heat open/ close (상부가열) </td><td>상부 실링 헤드 가열 온/오프 전환</td></tr><tr><td>Down-heat open/ close (하부가열)</td><td>하부 실링 헤드 가열 온/오프 전환</td></tr><tr><td>Stop (비상 정지)</td><td>모든 동작 정지</td></tr><tr><td>Open lid (커버 캐폐)</td><td>챔버 커버 열림/닫힘 전환</td></tr><tr><td>Vacuum (진공)</td><td>진공 밸브 온/오프 전환 (실링 작업 시 열림 상태)</td></tr><tr><td>Inflator (가스 주입)</td><td>가스 주입 밸브 온/오프 전환 (실링 작업 시 닫힘 상태)</td></tr><tr><td>Sealing (실링)</td><td>실링 헤드에어실린더 하강/상승 동작</td></tr><tr><td>Manual/ Auto (수동/자동)</td><td>수동 및 자동 모드 전환 (작업 시 자동 모드 사용)</td></tr></tbody></table>
 
 **파라미터 설정**
 
