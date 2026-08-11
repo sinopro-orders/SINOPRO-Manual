@@ -245,12 +245,6 @@ SP-YF200 Vacuum Pre-sealing Machine은 전해액 주입 및 정치 공정이 완
 {% endstep %}
 
 {% step %}
-### 가열 종료
-
-상·하부 가열 스위치를 끄고 히터가 식을 때까지 기다립니다.
-{% endstep %}
-
-{% step %}
 ### 시료 회수
 
 시료(제품)를 모두 회수합니다.
