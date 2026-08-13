@@ -2,7 +2,7 @@
 
 > **SINOPRO** · 문서 번호 SINOPRO-M-SP-YF200 · Rev. 1.0 · 2026. 08.
 
-![SP-YF200 외관](.gitbook/assets/imagesimage3.png)
+![SP-YF200 외관](<.gitbook/assets/imagesimage3 (1).png>)
 
 {% hint style="info" %}
 본 매뉴얼은 SP-YF200 Vacuum Pre-sealing Machine의 설치·조작·유지보수 방법을 설명합니다.
@@ -109,7 +109,7 @@ SP-YF200은 본체(작업부)와 제어박스가 분리된 구조로 구성되�
 
 배관 및 케이블 연결 : 운송을 위해 분리된 배관 및 케이블은 각 연결부의 라벨 또는 식별 표기를 확인한 후, **동일한 표기의 연결부에 정확하게 연결하십시오.** 연결 후에는 각 연결부가 확실하게 체결되어 있는지 확인하십시오.
 
-![배관 및 전선 연결](.gitbook/assets/imagesimage4.png)
+![배관 및 전선 연결](<.gitbook/assets/imagesimage4 (1).png>)
 
 <table><thead><tr><th width="105">유틸리티</th><th width="150">사양</th><th>연결 방법</th></tr></thead><tbody><tr><td>전원</td><td>AC 220 V, 50 Hz</td><td><p>장비에 표시된 식별 표기를 확인한 후 전원 케이블을 정확하게 연결하십시오.</p><div data-gb-custom-block data-tag="hint" data-style="info" class="hint hint-info"><p>⚠ 주의<br>전원 케이블을 연결하거나 분리하기 전에 장비의 전원이 차단되어 있는지 반드시 확인하십시오.</p></div></td></tr><tr><td>압축 공기</td><td>0.5 ~ 0.8 MPa</td><td>장비에 표시된 식별 표기를 확인한 후 압축공기 배관을 정확하게 연결하십시오</td></tr><tr><td>진공</td><td>Φ10 튜브 / 진공 배관을 진공펌프(Vacuum Pump)</td><td>Φ10 튜브를 사용하여 진공 배관을 진공펌프(Vacuum Pump)에 정확하게 연결하십시오. 진공펌프는 기본 구성에 포함되지 않으며 별도로 준비해야 합니다.</td></tr></tbody></table>
 

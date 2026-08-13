@@ -2,7 +2,7 @@
 
 > **SINOPRO** · 문서 번호 SINOPRO-M-SP-TM400 · Rev. 1.0 · 2026. 08.
 
-![SP-TM400](<.gitbook/assets/imagesimage1 (1).png>)
+![SP-TM400](<.gitbook/assets/imagesimage1 (1) (1).png>)
 
 {% hint style="info" %}
 본 매뉴얼은 SP-TM400 Automatic Film Coating Machine의 설치·조작·유지보수 방법을 설명합니다. 장비를 사용하기 전에 **2. 안전 및 주의사항**을 반드시 확인하시기 바랍니다.
@@ -131,11 +131,11 @@ _(원본 문서에 해당 내용 없음)_
 
 장치의 전원을 켜면 터치스크린에 【시작 화면】이 표시됩니다.
 
-![시작 화면](<.gitbook/assets/imagesimage3 (1).png>)
+![시작 화면](<.gitbook/assets/imagesimage3 (1) (1).png>)
 
 【시작 화면】을 터치하면 【조작 화면】으로 이동합니다.
 
-![조작 화면](<.gitbook/assets/imagesimage4 (1).png>)
+![조작 화면](<.gitbook/assets/imagesimage4 (1) (1).png>)
 
 설정할 항목을 선택하여 값을 입력한 후 【확인】 버튼을 눌러 설정을 완료합니다.
 

@@ -2,7 +2,7 @@
 
 > **SINOPRO** · 문서 번호 SINOPRO-M-SP-DH1000 · Rev. 1.0 · 2026. 08.
 
-![SP-DH1000](.gitbook/assets/imagesimage1.png)
+![SP-DH1000](<.gitbook/assets/imagesimage1 (1).png>)
 
 {% hint style="info" %}
 본 설명서에 기재된 장비는 엄격한 품질 및 제조 기준에 따라 제작되었습니다.
