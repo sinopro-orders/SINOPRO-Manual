@@ -9,53 +9,68 @@
 
 출고 전 충분한 테스트와 검수를 완료하였으며, 본 설명서에 명시된 절차에 따라 올바르게 사용할 경우 장기간 안전하고 안정적인 성능을 유지할 수 있습니다.
 
-장비를 사용하기 전 **「2. 안전 및 주의사항」의 내용을 반드시 확인해야 합니다.**
+장비를 사용하기 전에 「2. 안전 및 주의사항」의 내용을 반드시 확인하십시오.
 {% endhint %}
 
 ## 1. 장치 정보
 
 ### 1-1. 장치 개요
 
+SP-DH1000 Ultrasonic spot welder는 초음파 진동과 가압을 이용하여 금속 소재를 접합하는 초음파 용접 장비입니다. 이차전지 셀 제작 공정에서 전극 집전체와 탭(Tab)의 용접에 사용할 수 있으며, 권취형(Jelly Roll) 및 적층형(Stacking) 셀의 양극·음극 용접에 적용할 수 있습니다.
+
 **초음파란?**
 
-초음파는 인간의 가청 범위 상한을 초과하는 주파수의 기계적 진동입니다. 일반적으로 **18kHz(18,000Hz)** 이상의 주파수를 초음파라고 하며, 사람의 귀에는 들리지 않습니다.
+초음파는 인간의 가청 범위를 초과하는 주파수의 기계적 진동입니다. 일반적으로 18 kHz(18,000 Hz) 이상의 주파수를 초음파라고 하며, 사람의 귀에는 들리지 않습니다.
 
 **초음파 용접의 원리**
 
-초음파 용접의 기본 원리는 전기 에너지를 기계적 진동으로 변환하는 것입니다. 고주파 전기 에너지가 고주파 기계 진동으로 변환되고, 이 진동이 가압 상태의 금속 공작물 접합면에서 마찰열을 발생시킵니다. 이 열에 의해 모재를 녹이지 않고 고상 야금 접합이 이루어져, 용접이 완성됩니다.
+초음파 용접은 고주파 전기 에너지를 기계적 진동으로 변환하여 금속 소재를 접합하는 방식입니다. 변환된 초음파 진동이 가압된 금속 소재의 접합면에 전달되면서 마찰이 발생하고, 이를 통해 금속 소재 간의 접합이 이루어집니다.
 
 **초음파 시스템 구성**
 
 초음파 용접 시스템은 다음의 주요 부품으로 구성됩니다:
 
-* 구동 제어함 (Drive control box)
-* 증폭봉 (Booster)
-* 트랜스듀서 (진동자, Transducer)
-* 용접 헤드 (Welding horn)
-* 공압 작동 장치 및 고정 지그
+* 구동 제어함 (Drive control box)\
+  -초음파 용접에 필요한 고주파 전기 신호를 생성하고 장비의 용접 조건 및 동작을 제어합니다
+* 부스터 (Booster)\
+  -구동 제어함에서 전달된 전기 에너지를 기계적인 초음파 진동으로 변환합니다.
+* 진동자 (Transducer)\
+  진동자에서 발생한 초음파 진동의 진폭을 조정하고 혼(Horn)으로 전달합니다.
+* 혼 (Horn)\
+  -전달된 초음파 진동을 실제 용접 대상물에 전달하며, 가압 상태에서 금속 소재의 접합이 이루어지도록 합니다.
+* 공압 작동 장치 및 고정 지그\
+  -혼을 상·하로 구동하여 용접 대상물을 가압하고, 하부 금형 및 용접 대상물을 지정된 위치에 고정합니다.
 
 ### 1-2. 장치 구성
 
-* 디스플레이
-* 용접헤드
+1. 초음파 발생기 및 제어부\
+   터치 디스플레이, 전원 스위치, USB 포트 및 각종 설정·조작 기능을 통해 초음파 출력과 용접 조건을 설정하고 장비의 동작 상태를 확인합니다.
+2. 용접 헤드부\
+   에어 실린더, 솔레노이드 밸브, 에어 레귤레이터, 진동자(Transducer), 부스터(Booster), 혼(Horn) 및 스트로크 조절부로 구성됩니다. 압축공기를 이용하여 혼을 상·하로 구동하고, 초음파 진동을 용접 대상물에 전달합니다.
+3. 하부 금형 및 고정 지그\
+   용접 대상물을 받쳐주고 지정된 위치에 안정적으로 고정하는 부분입니다. 대상물의 형상 및 크기에 따라 받침대 또는 고정부의 형상을 변경하여 사용할 수 있습니다.
+4. 본체 후면 및 연결부\
+   전원 케이블, 풋 스위치, 진동자, 솔레노이드 밸브 및 냉각 팬 등의 연결 포트와 퓨즈로 구성됩니다.
+5. 기본 제공 부속품\
+   장비 사용 및 유지보수에 필요한 퓨즈, 육각 렌치, 풋 스위치 등의 기본 부속품이 제공됩니다.
 
-**본체 정면 — 초음파 웰딩기 제어 화면 설명**
+본체 정면 및 제어 화면 구성
 
 ![본체 정면](.gitbook/assets/imagesimage4.jpeg)
 
-<table><thead><tr><th width="77" align="center">번호</th><th width="208">명칭</th><th>설명</th></tr></thead><tbody><tr><td align="center">1</td><td>발생기 본체 전원 스위치</td><td>이 버튼을 통해 본체의 전원을 켜고 끌 수 있습니다.</td></tr><tr><td align="center">2</td><td>영문 전환 버튼</td><td>이 버튼을 누르면 사용자 인터페이스를 영어 화면으로 전환할 수 있습니다.</td></tr><tr><td align="center">3</td><td>파라미터 설정 버튼</td><td><p>이 버튼을 누르면 비밀번호를 입력하여 파라미터 설정 화면으로 진입할 수 있습니다. </p><p>파라미터 설정 관련 내용은 그림 4를 참조해 주십시오. </p><p>※ 초기 비밀번호는 8888입니다.</p></td></tr><tr><td align="center">4</td><td>중문 전환 버튼</td><td>이 버튼을 누르면 사용자 인터페이스를 중국어 화면으로 전환할 수 있습니다.</td></tr><tr><td align="center">5</td><td>USB 출력 포트</td><td>USB 포트를 통해 각 용접 작업의 상세 데이터를 추출할 수 있습니다.</td></tr></tbody></table>
+<table><thead><tr><th width="77" align="center">번호</th><th width="208">명칭</th><th>설명</th></tr></thead><tbody><tr><td align="center">1</td><td>본체 전원 스위치</td><td>본체의 전원을 ON/OFF하는 스위치입니다.</td></tr><tr><td align="center">2</td><td>영문 전환 버튼</td><td>터치하면 사용자 인터페이스가 영문 화면으로 전환됩니다.</td></tr><tr><td align="center">3</td><td>파라미터 설정 버튼</td><td>장비 전원을 켠 후 용접 조건값을 변경하려면 파라미터 설정 버튼을 터치하여 비밀번호를 입력해야 합니다. 비밀번호가 확인되면 용접 시간 등 용접 조건값을 변경할 수 있습니다.<br>※ 초기 비밀번호: <strong>8888</strong></td></tr><tr><td align="center">4</td><td>중문 전환 버튼</td><td>터치하면 사용자 인터페이스가 중국어 화면으로 전환됩니다.</td></tr><tr><td align="center">5</td><td>USB 출력 포트</td><td>USB 저장장치를 연결하여 용접 작업 데이터를 저장 및 추출할 수 있습니다.</td></tr></tbody></table>
 
 **디스플레이 항목 설명**
 
 <div data-with-frame="true"><img src=".gitbook/assets/imagesimage5 (1).jpeg" alt="디스플레이 항목"></div>
 
-<table><thead><tr><th width="79.25" align="center">번호</th><th>화면 표시</th><th>항목명</th><th align="center">설정 가능 여부</th><th width="274.25">기능 및 사용 방법</th><th>검수 시 참고값</th></tr></thead><tbody><tr><td align="center"><strong>1</strong></td><td>MODE</td><td>운전 모드</td><td align="center">●</td><td><strong>Automatic(자동) / Mould(금형 조정)</strong> 모드를 선택합니다. 일반 용접 작업 시 Automatic 모드를 사용하며, 금형 교체 및 조정 시 Mould 모드를 사용합니다.</td><td>Automatic</td></tr><tr><td align="center"><strong>2</strong></td><td>Amplitude</td><td>전류/출력 표시</td><td align="center">×</td><td>장비 작동 시 실제 출력 상태를 표시하는 값으로 사용자가 설정할 수 없습니다. </td><td>-</td></tr><tr><td align="center"><strong>3</strong></td><td>Power</td><td>실제 출력</td><td align="center">×</td><td>용접 시 실제 출력값을 표시합니다. 단위는 <strong>W</strong>이며 사용자가 설정할 수 없습니다.</td><td>-</td></tr><tr><td align="center"><strong>4</strong></td><td>Energy</td><td>실제 에너지</td><td align="center">×</td><td>1회 용접 시 실제 출력된 에너지값을 표시합니다. 단위는 <strong>J</strong>이며 사용자가 설정할 수 없습니다.</td><td>-</td></tr><tr><td align="center"><strong>5</strong></td><td>Time</td><td>실제 용접 시간</td><td align="center">×</td><td>1회 용접 시 실제 초음파 출력 시간을 표시합니다. 단위는 <strong>s</strong>이며 사용자가 설정할 수 없습니다.</td><td>-</td></tr><tr><td align="center"><strong>6</strong></td><td>Frequency</td><td>실제 주파수</td><td align="center">×</td><td>장비 작동 시 자동으로 추적된 실제 주파수를 표시합니다. 단위는 <strong>kHz</strong>이며 사용자가 설정할 수 없습니다.</td><td>-</td></tr><tr><td align="center"><strong>7</strong></td><td>Production Number</td><td>생산 수량</td><td align="center">×</td><td>작업이 1회 완료될 때마다 수량이 자동으로 1씩 증가합니다.</td><td>-</td></tr><tr><td align="center"><strong>8</strong></td><td>Freq Scanning</td><td>주파수 스캔</td><td align="center">버튼</td><td>발진기, 진동자 및 혼 간의 주파수를 자동으로 보정 및 매칭하는 기능입니다. 혼 교체 후 또는 주파수 매칭이 필요한 경우 사용합니다.</td><td>검수 시 실행</td></tr><tr><td align="center"><strong>9</strong></td><td>Mould</td><td>금형 조정</td><td align="center">버튼</td><td>금형 교체 또는 혼/금형 위치 조정 시 사용합니다. 조정 중 초음파가 잘못 출력되는 것을 방지합니다.</td><td>-</td></tr><tr><td align="center"><strong>10</strong></td><td>Automatic</td><td>자동</td><td align="center">버튼</td><td>일반 용접 작업 시 자동 운전 모드로 전환합니다.</td><td>-</td></tr><tr><td align="center"><strong>11</strong></td><td>Sonic Test</td><td>초음파 테스트</td><td align="center">버튼</td><td>초음파 출력 여부를 테스트하고 전류 및 주파수 상태가 정상인지 확인합니다.</td><td>-</td></tr><tr><td align="center"><strong>12</strong></td><td>Clear</td><td>카운트 초기화</td><td align="center">버튼</td><td>Production Number의 생산 수량을 초기화합니다.</td><td>-</td></tr><tr><td align="center"><strong>13</strong></td><td>Reset</td><td>리셋</td><td align="center">버튼</td><td>장비 과부하 또는 알람 발생 시 알람을 해제하고 장비를 리셋합니다.</td><td>-</td></tr><tr><td align="center"><strong>14</strong></td><td>Amplitude</td><td>진폭</td><td align="center">●</td><td>초음파 출력의 진폭을 설정합니다. 용접 소재 및 용접 상태에 따라 조정하며, 변경 시 낮은 값부터 단계적으로 조정합니다.</td><td><strong>50%</strong></td></tr><tr><td align="center"><strong>15</strong></td><td>Shake time</td><td>진락 시간</td><td align="center">●</td><td>용접 완료 후 초음파를 한 번 더 출력하여 용접물이 혼에 달라붙는 현상을 방지합니다. 실제 용접 상태에 따라 조정합니다.</td><td><strong>0.050 s</strong></td></tr><tr><td align="center"><strong>16</strong></td><td>Cooling time</td><td>냉각/유지 시간</td><td align="center">●</td><td>초음파 출력이 완료된 후 혼이 용접물을 누른 상태로 유지되는 시간을 설정합니다.</td><td><strong>0.000 s</strong></td></tr><tr><td align="center"><strong>17</strong></td><td>Welding energy / Welding time</td><td>용접 에너지 / 용접 시간</td><td align="center">●</td><td><strong>Energy mode</strong>에서는 <code>Welding energy</code>가 표시되며 목표 용접 에너지(J)를 설정합니다. <strong>Time mode</strong>에서는 <code>Welding time</code>이 표시되며 초음파 출력 시간(s)을 설정합니다. 소재 및 실제 용접 상태에 따라 조정합니다.</td><td><strong>Energy mode: 6 J</strong></td></tr><tr><td align="center"><strong>18</strong></td><td>Delay time</td><td>지연 시간</td><td align="center">●</td><td>혼이 하강한 후 초음파 출력이 시작되기까지의 대기 시간을 설정합니다. 실제 용접 조건에 따라 조정합니다.</td><td><strong>0.150 s</strong></td></tr><tr><td align="center"><strong>19</strong></td><td>Welding mode</td><td>용접 모드</td><td align="center">●</td><td><strong>Energy mode(에너지 모드) / Time mode(시간 모드)</strong> 중 선택합니다. 선택한 모드에 따라 17번 항목이 Welding energy 또는 Welding time으로 변경됩니다.</td><td><strong>Energy mode</strong></td></tr></tbody></table>
+<table><thead><tr><th width="79.25" align="center">번호</th><th>화면 표시</th><th>항목명</th><th align="center">설정 가능 여부</th><th width="274.25">기능 및 사용 방법</th><th width="186.0841064453125">검수 시 참고값</th></tr></thead><tbody><tr><td align="center"><strong>1</strong></td><td>MODE</td><td>운전 모드</td><td align="center">×</td><td><strong>Automatic(자동) / Mould(금형 조정)</strong> 모드를 선택합니다. 일반 용접 작업 시 Automatic 모드를 사용하며, 금형 교체 및 조정 시 Mould 모드를 사용합니다.</td><td>Automatic</td></tr><tr><td align="center"><strong>2</strong></td><td>Amplitude</td><td>전류/출력 표시</td><td align="center">×</td><td>초음파 동작 시 출력되는 전류값을 실시간으로 표시합니다. 표시 전용 항목으로 사용자가 직접 설정할 수 없습니다.</td><td>-</td></tr><tr><td align="center"><strong>3</strong></td><td>Power</td><td>실제 출력</td><td align="center">×</td><td>용접 시 실제 초음파 출력값을 표시합니다. 단위는 W이며, 표시 전용 항목으로 사용자가 직접 설정할 수 없습니다.</td><td>-</td></tr><tr><td align="center"><strong>4</strong></td><td>Energy</td><td>실제 에너지</td><td align="center">×</td><td>1회 용접 시 실제 사용된 에너지값을 표시합니다. 단위는 J이며, 표시 전용 항목으로 사용자가 직접 설정할 수 없습니다.</td><td>-</td></tr><tr><td align="center"><strong>5</strong></td><td>Time</td><td>실제 용접 시간</td><td align="center">×</td><td>1회 용접 시 실제 초음파 출력 시간을 표시합니다. 단위는 s이며, 표시 전용 항목으로 사용자가 직접 설정할 수 없습니다.</td><td>-</td></tr><tr><td align="center"><strong>6</strong></td><td>Frequency</td><td>실제 주파수</td><td align="center">×</td><td>장비 작동 시 자동으로 추적된 실제 초음파 주파수를 표시합니다. 단위는 kHz이며, 표시 전용 항목으로 사용자가 직접 설정할 수 없습니다.</td><td>-</td></tr><tr><td align="center"><strong>7</strong></td><td>Production Number</td><td>생산 수량</td><td align="center">×</td><td>용접 작업이 1회 완료될 때마다 수량이 자동으로 1씩 증가합니다. 현재 누적된 용접 작업 횟수를 확인할 수 있습니다.</td><td>-</td></tr><tr><td align="center"><strong>8</strong></td><td>Freq Scanning</td><td>주파수 스캔</td><td align="center">버튼</td><td>버튼을 터치하면 장비가 초음파 주파수를 자동으로 스캔하여 진동자(Transducer), 부스터(Booster), 혼(Horn)으로 구성된 진동계의 주파수를 매칭합니다. 혼 교체 후 또는 주파수 재조정이 필요한 경우 사용합니다.</td><td>검수 시 실행</td></tr><tr><td align="center"><strong>9</strong></td><td>Mould</td><td>금형 조정</td><td align="center">버튼</td><td>버튼을 터치하면 Mould(조정) 모드로 전환됩니다. Mould 모드에서는 풋 스위치를 눌러도 용접 동작이 실행되지 않으며, 혼(Horn) 및 받침대의 교체·위치 조정 등 셋업 작업 시 사용합니다.</td><td>-</td></tr><tr><td align="center"><strong>10</strong></td><td>Automatic</td><td>자동 운전 버튼</td><td align="center">버튼</td><td>버튼을 터치하면 Automatic(자동 운전) 모드로 전환됩니다. 자동 운전 모드에서는 풋 스위치를 누르면 설정된 용접 조건에 따라 용접 동작이 시작됩니다.</td><td>-</td></tr><tr><td align="center"><strong>11</strong></td><td>Sonic Test</td><td>초음파 테스트</td><td align="center">버튼</td><td>버튼을 터치하면 실제 용접 동작 없이 초음파 출력 상태를 점검할 수 있습니다. 테스트 시 전류값과 주파수 표시값을 확인하여 진동자(Transducer), 부스터(Booster), 혼(Horn)의 초음파 동작 상태를 확인합니다.</td><td>-</td></tr><tr><td align="center"><strong>12</strong></td><td>Clear</td><td>생산 수량 초기화 버</td><td align="center">버튼</td><td>Production Number의 생산 수량을 초기화합니다.</td><td>-</td></tr><tr><td align="center"><strong>13</strong></td><td>Reset</td><td>리셋 버튼</td><td align="center">버튼</td><td>장비에 과부하 또는 알람이 발생한 경우 버튼을 터치하여 알람 상태를 해제하고 장비를 리셋합니다.</td><td>-</td></tr><tr><td align="center"><strong>14</strong></td><td>Amplitude</td><td>진폭 설정</td><td align="center">●</td><td>초음파 출력의 진폭을 설정합니다. 용접 소재 및 용접 상태에 따라 조정하며, 조건 변경 시 낮은 값부터 단계적으로 조정합니다.</td><td><strong>30%</strong></td></tr><tr><td align="center"><strong>15</strong></td><td>Shake time</td><td>진동 해제 시간</td><td align="center">●</td><td>용접 완료 후 혼(Horn)이 상승한 상태에서 설정된 시간 동안 초음파 진동을 유지합니다. 이 진동을 통해 용접 대상물이 혼에 달라붙는 현상을 줄이고 분리를 돕습니다.</td><td><strong>0.0 s</strong></td></tr><tr><td align="center"><strong>16</strong></td><td>Cooling time</td><td>가압 유지 시간</td><td align="center">●</td><td>용접을 위한 초음파 출력이 완료된 후 혼(Horn)이 용접 대상물을 누른 상태로 유지되는 시간을 설정합니다. 설정 시간이 지나면 혼이 상승합니다.</td><td><strong>0.0 s</strong></td></tr><tr><td align="center"><strong>17</strong></td><td>Welding energy / Welding time</td><td>용접 에너지 / 용접 시간</td><td align="center">●</td><td>Welding mode 설정에 따라 표시 항목이 변경됩니다. Energy mode에서는 목표 용접 에너지(J)를 설정하고, Time mode에서는 초음파 출력 시간(s)을 설정합니다. 실제 용접 소재와 상태에 따라 조건을 조정합니다</td><td><strong>0.080 s</strong></td></tr><tr><td align="center"><strong>18</strong></td><td>Delay time</td><td>지연 시간</td><td align="center">●</td><td>혼(Horn)이 하강하여 용접 대상물을 가압한 후, 초음파 출력이 시작되기까지의 대기 시간을 설정합니다.</td><td><strong>0.080 s</strong></td></tr><tr><td align="center"><strong>19</strong></td><td>Welding mode</td><td>용접 모드</td><td align="center">●</td><td>Energy mode(에너지 모드) 또는 Time mode(시간 모드)를 선택합니다. 선택한 모드에 따라 17번 설정 항목이 <code>Welding energy</code> 또는 <code>Welding time</code>으로 변경됩니다.</td><td>Time mode</td></tr></tbody></table>
 
 **용접 헤드**
 
 ![용접 헤드](.gitbook/assets/imagesimage6.jpeg)
 
-<table><thead><tr><th width="81.5" align="center">번호</th><th width="286.75">구성품명</th><th>기능 및 설명</th></tr></thead><tbody><tr><td align="center">1</td><td><strong>에어 실린더</strong> </td><td>에어 공급 시 용접 혼을 상·하로 구동합니다. 용접 혼의 하강 스트로크를 조정할 수 있습니다.</td></tr><tr><td align="center">2</td><td><strong>솔레노이드 밸브</strong> </td><td>본체와 연결되어 에어 실린더의 상승·하강 동작을 제어합니다. 또한 실린더로 공급 및 배출되는 에어 유량을 조절할 수 있습니다.</td></tr><tr><td align="center">3</td><td><strong>에어 레귤레이터</strong></td><td>에어 공급 라인이 연결되는 부분으로, 공급되는 에어 압력을 조절합니다. 또한 필터를 통해 압축공기에 포함된 수분을 제거합니다.</td></tr><tr><td align="center">4</td><td><strong>용접 혼</strong> </td><td>용접 대상물에 초음파 진동을 전달하여 실제 용접이 이루어지는 부분입니다. 사용 주파수에 따라 <strong>20 kHz / 25 kHz / 35 kHz / 40 kHz</strong> 등으로 구분되며, 용접 조건 및 대상물에 따라 다양한 형상의 혼을 사용할 수 있습니다. <strong>(그림 B 참조)</strong></td></tr><tr><td align="center">5</td><td><strong>하부 금형 블록</strong> </td><td>용접 대상물을 받쳐주는 하부 금형 구성품으로, 용접 대상물의 형상 및 사양에 따라 다양한 형태로 적용할 수 있습니다. <strong>(그림 A 참조)</strong></td></tr><tr><td align="center">6</td><td><strong>하부 금형 고정 지그</strong></td><td>하부 금형 및 용접 대상물을 지정된 위치에 고정하기 위한 지그입니다. 작업 조건 및 대상물에 따라 다양한 형상으로 적용할 수 있습니다. <strong>(그림 A 참조)</strong></td></tr><tr><td align="center">7</td><td><strong>상승 스트로크 조절 나사</strong> </td><td>용접 혼의 상승 위치 및 상승 스트로크를 조정합니다.</td></tr><tr><td align="center">8</td><td><strong>진동자 고정 나사</strong> </td><td>용접 혼 및 진동자 조립부를 고정합니다. 해당 나사를 풀어 용접 혼의 용접면 방향을 변경하거나 혼을 교체할 수 있습니다.</td></tr><tr><td align="center">9</td><td><strong>진동자 연결 커넥터</strong> </td><td>초음파 발진기(본체)와 진동자를 연결하는 커넥터입니다.</td></tr><tr><td align="center">10</td><td><strong>솔레노이드 밸브·팬 연결 커넥터</strong></td><td>발진기와 연결하여 솔레노이드 밸브 구동 및 냉각 팬 전원을 공급하는 커넥터입니다. <strong>※ 팬 사용 전원: AC 220 V</strong></td></tr><tr><td align="center">A</td><td>하부 금형 및 지그</td><td>용접 대상물의 형상 및 사양에 따라 다양한 형태의 하부 금형 및 고정 지그를 적용할 수 있습니다.</td></tr><tr><td align="center">B</td><td>용접 혼</td><td>용접 소재, 형상 및 용접 조건에 따라 다양한 형상의 용접 혼을 적용할 수 있습니다.</td></tr></tbody></table>
+<table><thead><tr><th width="81.5" align="center">번호</th><th width="286.75">구성품명</th><th>기능 및 설명</th></tr></thead><tbody><tr><td align="center">1</td><td><strong>에어 실린더</strong> </td><td>압축공기 공급 시 혼(Horn)을 상·하로 구동하는 공압 실린더입니다. 용접 작업 및 위치 조정 시 혼의 하강 동작을 수행하며, 하강 스트로크를 조정할 수 있습니다.</td></tr><tr><td align="center">2</td><td><strong>솔레노이드 밸브</strong> </td><td>에어 실린더로 공급되는 압축공기의 흐름을 전환하여 실린더의 상승·하강 동작을 제어합니다. 이를 통해 혼(Horn)의 상승 및 하강 동작을 제어합니다.</td></tr><tr><td align="center">3</td><td><strong>에어 레귤레이터</strong></td><td>압축공기 공급 라인에 설치되어 에어 실린더로 공급되는 공압을 조절합니다. 설정 압력에 따라 혼(Horn)이 용접 대상물을 가압하는 힘에 영향을 주므로, 용접 조건에 맞게 적정 압력으로 조절하여 사용합니다. 또한 필터를 통해 압축공기에 포함된 수분을 분리합니다.</td></tr><tr><td align="center">4</td><td><strong>용접 혼</strong> </td><td>용접 대상물에 초음파 진동을 전달하여 실제 용접이 이루어지는 부분입니다. 사용 주파수에 따라 <strong>20 kHz / 25 kHz / 35 kHz / 40 kHz</strong> 등으로 구분되며, 용접 조건 및 대상물에 따라 다양한 형상의 혼을 사용할 수 있습니다. <strong>(그림 B 참조)</strong></td></tr><tr><td align="center">5</td><td><strong>하부 금형 블록</strong> </td><td>용접 대상물을 받쳐주는 하부 금형 구성품으로, 용접 대상물의 형상 및 사양에 따라 다양한 형태로 적용할 수 있습니다. <strong>(그림 A 참조)</strong></td></tr><tr><td align="center">6</td><td><strong>하부 금형 고정 지그</strong></td><td>하부 금형을 지정된 위치에 고정하여 용접 중 위치가 움직이지 않도록 지지하는 부품입니다. 작업 조건 및 하부 금형의 형상에 따라 적합한 고정 지그를 적용할 수 있습니다. <strong>(그림 A 참조)</strong></td></tr><tr><td align="center">7</td><td><strong>상승 스트로크 조절 나사</strong> </td><td>혼(Horn)의 상승 위치와 상승 스트로크를 조정하는 나사입니다. 작업물 높이 및 용접 조건에 맞게 조정하여 사용합니다.</td></tr><tr><td align="center">8</td><td><strong>진동자 고정 나사</strong> </td><td>진동자 및 혼(Horn) 조립부를 고정하는 나사입니다. 나사를 풀어 혼의 용접면 방향을 조정하거나 혼을 교체할 수 있습니다.</td></tr><tr><td align="center">9</td><td><strong>진동자 연결 커넥터</strong> </td><td>제어 본체와 진동자(Transducer)를 연결하여 초음파 신호를 전달하는 커넥터입니다.</td></tr><tr><td align="center">10</td><td><strong>솔레노이드 밸브·팬 연결 커넥터</strong></td><td>제어 본체와 연결하여 솔레노이드 밸브의 구동 신호 및 냉각 팬의 전원을 공급하는 커넥터입니다.<br>※ 냉각 팬 사용 전원: AC 220 V</td></tr><tr><td align="center">A</td><td>하부 금형 및 고정 지그</td><td>용접 대상물의 형상 및 사양에 따라 다양한 형태의 하부 금형과 고정 지그를 적용할 수 있습니다.</td></tr><tr><td align="center">B</td><td>혼(Horn)</td><td>용접 소재, 형상 및 용접 조건에 따라 다양한 형상의 혼(Horn)을 적용할 수 있습니다.</td></tr></tbody></table>
 
 
 
@@ -67,7 +82,7 @@
 
 ![본체 뒤면](.gitbook/assets/imagesimage7.jpeg)
 
-<table><thead><tr><th width="70" align="center">번호</th><th width="281">명칭</th><th>설명</th></tr></thead><tbody><tr><td align="center">1</td><td>풋 스위치 포트</td><td>풋 스위치를 연결하는 단자입니다. 이 단자는 자동 공급 장치에서 메인 장치로 트리거 신호를 보내는 역할도 겸합니다.</td></tr><tr><td align="center">2</td><td>전원 케이블 포트</td><td>전원 케이블을 연결하는 포트입니다. 입력 전원은 기본적으로 AC 220V를 사용합니다.</td></tr><tr><td align="center">3</td><td>퓨즈 (15A)</td><td>기기를 보호하는 역할을 하며, 과전류 또는 과부하 시 회로 차단 기능을 합니다.</td></tr><tr><td align="center">4</td><td>트랜스듀서 포트 (진동자 연결 포트)</td><td>초음파 트랜스듀서(진동자)를 연결하는 9핀 커넥터 포트입니다.</td></tr><tr><td align="center">5</td><td>냉각 팬</td><td>장비 내부의 발열을 줄이기 위한 방열 팬입니다.</td></tr><tr><td align="center">6</td><td><p>솔레노이드 밸브 팬 포트 </p><p>(전자밸브 연결 포트)</p></td><td>솔레노이드 밸브를 연결하는 10핀 커넥터 포트입니다.</td></tr></tbody></table>
+<table><thead><tr><th width="70" align="center">번호</th><th width="281">명칭</th><th>설명</th></tr></thead><tbody><tr><td align="center">1</td><td>풋 스위치 포트</td><td>풋 스위치를 연결하는 포트입니다. Automatic(자동 운전) 모드에서 풋 스위치 입력을 통해 용접 동작을 시작합니다. 외부 자동화 장치의 트리거 신호 입력용으로도 사용할 수 있습니다.</td></tr><tr><td align="center">2</td><td>전원 케이블 포트</td><td>장비의 전원 케이블을 연결하는 포트입니다. 입력 전원은 AC 220 V를 사용합니다.</td></tr><tr><td align="center">3</td><td>퓨즈 (15A)</td><td>과전류 또는 과부하 발생 시 회로를 차단하여 장비의 전기 회로를 보호합니다.</td></tr><tr><td align="center">4</td><td>진동자(Transducer) 연결 포트</td><td>제어 본체와 진동자(Transducer)를 연결하는 9핀 커넥터 포트입니다.</td></tr><tr><td align="center">5</td><td>냉각 팬</td><td>장비 내부에서 발생하는 열을 외부로 배출하여 내부 온도 상승을 줄이는 냉각용 팬입니다.</td></tr><tr><td align="center">6</td><td>솔레노이드 밸브·팬 연결 포트</td><td>용접 헤드부의 솔레노이드 밸브 및 냉각 팬 연결 커넥터를 연결하는 10핀 포트입니다. 솔레노이드 밸브 구동 및 냉각 팬 전원 공급에 사용됩니다.</td></tr></tbody></table>
 
 {% hint style="danger" %}
 ⚠️ **주의**: 이 포트에는 **220V 전원**이 공급되므로, 설치 또는 점검 시 반드시 **전원을 차단한 상태**에서 작업해야 합니다.
@@ -75,11 +90,11 @@
 
 **기본 제공 부속품**
 
-| 품목     |  수량 |
-| ------ | :-: |
-| 10A 퓨즈 |  2  |
-| 육각 렌치  |  2  |
-| 풋 스위치  |  1  |
+| 품목    |   수량  |
+| ----- | :---: |
+| 퓨즈    |   1   |
+| 육각 렌치 | 1 SET |
+| 풋 스위치 |   1   |
 
 ### 1-3. 장치 사양 및 규격&#x20;
 
@@ -143,18 +158,25 @@ _(1-2. 용접 헤드 참조)_
 
 ### 2-3. 설치 환경 주의사항
 
-* 장치가 구동 시 흔들림이 없어야 하므로 평평한 테이블 위에 설치합니다.
+* 장비는 진동이 적고 단단하며 수평이 유지되는 작업대 위에 설치하십시오.
 * 장치 셋팅 시 및 유지보수를 위해 장치 주변 최소 50cm 이상의 여유 공간이 필요합니다.
 
 ## 3. 설치 및 운반
 
-### 3-1. 운반 및 이동
+### 3-1. 용접 헤드 설치 및 장치 이동
 
-* 장치 이동 시 디스플레이와 헤드를 연결하고 있는 선들을 분리하여 이동하는 것을 권장드립니다.
+**용접 헤드 설치 시 주의사항**
+
+1. 진동자와 용접 혼(Horn)의 접촉면은 깨끗하고 평탄한 상태를 유지해야 하며, 균열이나 손상이 없어야 합니다.
+2. 부스터(Booster)와 용접 혼은 휘어짐이나 변형이 없는 상태여야 합니다.
+3. 용접 혼 조립부를 설치하거나 분리할 때는 반드시 지정된 전용 공구를 사용해야 합니다.
+4. 모든 나사 체결부가 단단히 고정되어 있고, 각 접촉면의 접촉 상태가 양호한지 확인해야 합니다.
+5. 전원을 켠 후 무부하 상태에서 Sonic Test(초음파 테스트) 버튼을 눌러 작동 상태를 확인합니다. 테스트 시 약한 고주파음이 발생하며, 부스터에서 미세한 진동이 느껴질 수 있습니다.
+6. 장치 이동 전 전원을 차단하고, 제어 본체와 용접 헤드부를 연결하는 케이블을 분리한 후 이동하는 것을 권장합니다. 이동 시 혼(Horn) 및 용접 헤드부에 충격이 가해지지 않도록 주의하십시오.
 
 ### 3-2. 유틸리티 연결
 
-<table><thead><tr><th width="161">유틸리티</th><th>내용 (본문 기준)</th></tr></thead><tbody><tr><td>전원</td><td>AC 220V / 50Hz — 전원 케이블 포트(본체 뒤면)에 연결</td></tr><tr><td>압축 공기</td><td>M8 에어 호스 권장, 압력 조절 밸브로 2~3kg/cm² 조절</td></tr><tr><td>풋 스위치</td><td>풋 스위치 포트(본체 뒤면) — 자동 공급 장치의 트리거 신호 입력 겸용</td></tr></tbody></table>
+<table><thead><tr><th width="161">유틸리티</th><th>내용 (본문 기준)</th></tr></thead><tbody><tr><td>전원</td><td>AC 220 V / 50 Hz — 본체 후면의 전원 케이블 포트에 연결</td></tr><tr><td>압축 공기</td><td>M8 에어 호스 권장, 에어 레귤레이터를 통해 2~3 kg/cm²로 조절</td></tr><tr><td>풋 스위치</td><td>본체 후면의 풋 스위치 포트에 연결 — Automatic(자동 운전) 모드에서 용접 동작 시작에 사용</td></tr></tbody></table>
 
 {% hint style="info" %}
 상세 연결 순서는 **4-2. 장비 조작**의 작동 절차(1\~3단계)를 참조하세요.
