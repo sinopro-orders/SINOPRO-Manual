@@ -1,4 +1,4 @@
-# README
+# SP-DF160 Button Battery Electric Crimping Machine
 
 > **SINOPRO** · 문서 번호 SINOPRO-M-SPDF160 · Rev. 1.0 · 2026. 08.
 
@@ -109,6 +109,10 @@ _(원본 문서에 해당 내용 없음)_
 ![압력 설정 화면](.gitbook/assets/imagesimage4.png)
 
 해당 화면에서 압력 값을 수정한 후 ENTER를 눌러 확인하고 이전 화면으로 돌아가면 됩니다.
+
+IO신호 표시 화면입니다.
+
+<figure><img src=".gitbook/assets/be75fcaa40e2e8551f0a2adcd9dca297.png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 
 {% tab title="운전 절차" %}
