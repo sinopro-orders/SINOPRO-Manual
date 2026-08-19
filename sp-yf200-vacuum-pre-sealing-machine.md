@@ -193,12 +193,18 @@ SP-YF200은 본체(작업부)와 제어박스가 분리된 구조로 구성되�
 {% endtab %}
 {% endtabs %}
 
-### 4-2. 자동 운전 방법
+**IO 신호 표시 화면**
+
+<figure><img src=".gitbook/assets/566a84b061e25525e27dec789e0a34df.png" alt=""><figcaption></figcaption></figure>
+
+
+
+
+
+### 4-&#x32;**.** 자동 운전 방법자동 모드 전환
 
 {% stepper %}
 {% step %}
-### 자동 모드 전환
-
 Manual/Auto 버튼을 눌러 자동 운전 모드로 전환합니다. 자동 모드로 전환되면 상·하부 실링 헤드의 히팅이 자동으로 ON되어 설정 온도까지 가열됩니다.
 {% endstep %}
 
